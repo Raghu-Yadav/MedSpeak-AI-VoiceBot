@@ -54,7 +54,7 @@ The project is divided into four phases:
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/your-username/MedSpeak.git](https://github.com/Raghu-Yadav/MedSpeak-AI-VoiceBot.git)
+   git clone [[https://github.com/your-username/MedSpeak.git](https://github.com/Raghu-Yadav/MedSpeak-AI-VoiceBot.git)](https://github.com/Raghu-Yadav/MedSpeak-AI-VoiceBot.git)
    cd MedSpeak_AI_Doctor
    ```
 2. Install dependencies:
