@@ -70,10 +70,4 @@ The project is divided into four phases:
 
 ---
 
-### License
-
-This project is licensed under the **MIT License**.
-
----
-
 🚀 **MedSpeak - The Future of AI-Powered Healthcare!**
