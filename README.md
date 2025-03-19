@@ -54,8 +54,8 @@ The project is divided into four phases:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MedSpeak.git
-   cd MedSpeak
+   git clone [https://github.com/your-username/MedSpeak.git](https://github.com/Raghu-Yadav/MedSpeak-AI-VoiceBot.git)
+   cd MedSpeak_AI_Doctor
    ```
 2. Install dependencies:
    ```bash
@@ -64,21 +64,9 @@ The project is divided into four phases:
 3. Set up API keys for **GROQ, OpenAI Whisper, and ElevenLabs**.
 4. Run the application:
    ```bash
-   python app.py
+   python gradio_app.py
    ```
 5. Access the UI via the **Gradio interface**.
-
-## Future Enhancements
-
-- Improve model accuracy with domain-specific medical datasets.
-- Add support for additional languages.
-- Deploy as a cloud-based service for broader accessibility.
-
----
-
-### Contributing
-
-We welcome contributions! Feel free to open an issue or submit a pull request to enhance MedSpeak.
 
 ---
 
